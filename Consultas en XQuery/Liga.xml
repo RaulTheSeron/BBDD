@@ -1,0 +1,181 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="TareaPresencial.xsl"?>
+<competicion nombre="LIGA">
+    <temporada id="C1" inicio="2017/08/28" fin="2018/06/30" nivel="primera">
+        <partido fecha="2017/10/28">
+            <local nombre="FC Barcelona">
+                <imagen>imagenes/fcbarcelona.png</imagen>
+                <goles>
+                    <jugador dorsal="9" min="12">Luis Suarez</jugador>
+                    <jugador dorsal="9" min="45">Luis Suarez</jugador>
+                    <jugador dorsal="10" min="56">Leo Messi</jugador>
+                    <jugador dorsal="10" min="78">Leo Messi</jugador>
+                </goles>
+            </local>
+            <visitante nombre="Real Madrid">
+                <imagen>imagenes/realmadrid.png</imagen>
+                <goles>
+                    <jugador dorsal="9" min="52">Karim Benzema</jugador>
+                    <jugador dorsal="20" min="70">Marco Asensio</jugador>
+                </goles>
+            </visitante>
+        </partido>
+        <partido fecha="2017/12/28">
+            <local nombre="Real Betis">
+                <imagen>imagenes/betis.png</imagen>
+                <goles>
+                    <jugador dorsal="17" min="12">Joaquin</jugador>
+                    <jugador dorsal="17" min="14">Joaquin</jugador>
+                </goles>
+            </local>
+            <visitante nombre="Real Madrid">
+                <imagen>imagenes/realmadrid.png</imagen>
+
+                <goles>
+                    <jugador dorsal="8" min="90">Tony Cross</jugador>
+                    <jugador dorsal="20" min="91">Marco Asensio</jugador>
+                </goles>
+            </visitante>
+        </partido>
+        <partido fecha="2018/01/28">
+            <local nombre="FC Barcelona">
+                <imagen>imagenes/fcbarcelona.png</imagen>
+                <goles>
+                    <jugador dorsal="10" min="34">Leo Messi</jugador>
+                    <jugador dorsal="10" min="45">Leo Messi</jugador>
+                    <jugador dorsal="10" min="68">Leo Messi</jugador>
+                </goles>
+            </local>
+            <visitante nombre="Real Betis">
+                <imagen>imagenes/betis.png</imagen>
+                <goles>
+                    <jugador dorsal="10" min="45">Jesé</jugador>
+                    <jugador dorsal="17" min="78">Joaquin</jugador>
+                </goles>
+            </visitante>
+        </partido>
+        <partido fecha="2018/03/28">
+            <local nombre="Real Madrid">
+                <imagen>imagenes/realmadrid.png</imagen>
+
+                <goles> </goles>
+            </local>
+            <visitante nombre="FC Barcelona">
+                <imagen>imagenes/fcbarcelona.png</imagen>
+
+                <goles>
+                    <jugador dorsal="10" min="2">Leo Messi</jugador>
+                    <jugador dorsal="10" min="67">Leo Messi</jugador>
+                </goles>
+            </visitante>
+        </partido>
+        <partido fecha="2018/02/28">
+            <local nombre="Real Madrid">
+                <imagen>imagenes/realmadrid.png</imagen>
+                <goles>
+                    <jugador dorsal="11" min="15">Garet Bale</jugador>
+                </goles>
+            </local>
+            <visitante nombre="Real Betis">
+                <imagen>imagenes/betis.png</imagen>
+                <goles> </goles>
+            </visitante>
+        </partido>
+        <partido fecha="2018/01/28">
+            <local nombre="Real Betis">
+                <imagen>imagenes/betis.png</imagen>
+                <goles> </goles>
+            </local>
+            <visitante nombre="FC Barcelona">
+                <imagen>imagenes/fcbarcelona.png</imagen>
+                <goles>
+                    <jugador dorsal="10" min="44">Philipe Coutinho</jugador>
+                </goles>
+            </visitante>
+        </partido>
+    </temporada>
+    <temporada id="C2" inicio="2017/08/28" fin="2018/06/30" nivel="segunda">
+        <partido fecha="2017/10/28">
+            <local nombre="Cordoba CF">
+                <imagen>imagenes/cordoba.png</imagen>
+                <goles>
+                    <jugador dorsal="18" min="56">De las Cuevas</jugador>
+                    <jugador dorsal="9" min="78">Piovaccari</jugador>
+                </goles>
+            </local>
+            <visitante nombre="Malaga CF">
+                <imagen>imagenes/malaga.png</imagen>
+                <goles>
+                    <jugador dorsal="20" min="52">Pacheco</jugador>
+                    <jugador dorsal="8" min="70">NDiaye</jugador>
+                </goles>
+            </visitante>
+        </partido>
+        <partido fecha="2017/12/28">
+            <local nombre="UD Almeria">
+                <imagen>imagenes/almeria.png</imagen>
+                <goles>
+                    <jugador dorsal="17" min="12">Alvaro Gimenez</jugador>
+                    <jugador dorsal="17" min="14">Alvaro Gimenez</jugador>
+                </goles>
+            </local>
+            <visitante nombre="Malaga CF">
+                <imagen>imagenes/malaga.png</imagen>
+
+                <goles>
+                    <jugador dorsal="8" min="90">NDiaye</jugador>
+                </goles>
+            </visitante>
+        </partido>
+        <partido fecha="2018/01/28">
+            <local nombre="Cordoba CF">
+                <imagen>imagenes/cordoba.png</imagen>
+                <goles>
+                    <jugador dorsal="18" min="56">De las Cuevas</jugador>
+                    <jugador dorsal="9" min="78">Piovaccari</jugador>
+                </goles>
+            </local>
+            <visitante nombre="UD Almeria">
+                <imagen>imagenes/almeria.png</imagen>
+                <goles> </goles>
+            </visitante>
+        </partido>
+        <partido fecha="2018/03/28">
+            <local nombre="Malaga CF">
+                <imagen>imagenes/malaga.png</imagen>
+
+                <goles> </goles>
+            </local>
+            <visitante nombre="Cordoba CF">
+                <imagen>imagenes/cordoba.png</imagen>
+
+                <goles>
+                    <jugador dorsal="10" min="2">Aguado</jugador>
+                    <jugador dorsal="9" min="78">Piovaccari</jugador>
+                </goles>
+            </visitante>
+        </partido>
+        <partido fecha="2018/02/28">
+            <local nombre="Malaga CF">
+                <imagen>imagenes/malaga.png</imagen>
+                <goles>
+                    <jugador dorsal="8" min="15">NDiaye</jugador>
+                </goles>
+            </local>
+            <visitante nombre="UD Almeria">
+                <imagen>imagenes/almeria.png</imagen>
+                <goles> </goles>
+            </visitante>
+        </partido>
+        <partido fecha="2018/01/28">
+            <local nombre="UD Almeria">
+                <imagen>imagenes/almeria.png</imagen>
+                <goles> </goles>
+            </local>
+            <visitante nombre="Cordoba CF">
+                <imagen>imagenes/cordoba.png</imagen>
+                <goles> </goles>
+            </visitante>
+        </partido>
+    </temporada>
+</competicion>
