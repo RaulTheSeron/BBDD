@@ -1,0 +1,2 @@
+Los ejercicios han sido realizados con sqldeveloper en Oracle 11g Express/11g R2
+por Raúl Serrano Torres.
